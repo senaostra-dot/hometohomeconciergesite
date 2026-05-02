@@ -1,0 +1,16 @@
+{
+  "name": "sena-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website"
+  ],
+  "author": "Sena Ostrander",
+  "license": "MIT"
+}
